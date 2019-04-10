@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Traitement_FTP_Fournisseur.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="mailSurveillance" Type="System.String" Scope="User">
+      <Value Profile="(Default)">doryandillen@hotmail.com</Value>
+    </Setting>
+    <Setting Name="mailHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mail-v1</Value>
+    </Setting>
+    <Setting Name="ftpSauve" Type="System.String" Scope="User">
+      <Value Profile="(Default)">In/SV</Value>
+    </Setting>
+    <Setting Name="ftpError" Type="System.String" Scope="User">
+      <Value Profile="(Default)">In/ERROR</Value>
+    </Setting>
+    <Setting Name="Database" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AS400_ERFILELIB</Value>
+    </Setting>
+    <Setting Name="ftpHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PO011632</Value>
+    </Setting>
+    <Setting Name="Table" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WASMVS</Value>
+    </Setting>
+    <Setting Name="StoredProcedure" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PASB080</Value>
+    </Setting>
+    <Setting Name="mailEnvoi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">doryan.dillenseger@groupe.schmidt</Value>
+    </Setting>
+    <Setting Name="tempDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\tmp</Value>
+    </Setting>
+    <Setting Name="ftpTravail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">In</Value>
+    </Setting>
+    <Setting Name="ftpPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">password</Value>
+    </Setting>
+    <Setting Name="ftpUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E4FTP</Value>
+    </Setting>
+    <Setting Name="SQLexpress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data source=localhost\Sqlexpress;Initial catalog=AS400_ERFILELIB;Integrated Security=True;</Value>
+    </Setting>
+    <Setting Name="supplierName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E4</Value>
+    </Setting>
+    <Setting Name="temporisation" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
